@@ -6,3 +6,4 @@ The 'client' starts with subprocess the 'client', wait and make 5 tries to make 
 
 To install the libraries you should use the requeriments.txt for venv39
 
+If the comands from https://github.com/coqui-ai/TTS?tab=readme-ov-file are not working, use which tts to search the path and export it with export PATH=$PATH:/home/[user]/.local/bin
